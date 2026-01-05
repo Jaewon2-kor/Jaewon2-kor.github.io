@@ -5,7 +5,7 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "jekyll-github-metadata"  # 이 줄 추가
 
 
-gem "just-the-docs", "0.10.1" # pinned to the current release
+gem "just-the-docs", "0.11.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 # 다른 플러그인들
